@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Par ou Impar</string>
+    <string name="title_activity_paired_devices">PairedDevices</string>
+    <string name="title_activity_discovered_devices">DiscoveredDevices</string>
+</resources>
